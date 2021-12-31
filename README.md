@@ -20,4 +20,4 @@ nodeJS users and posts API using mysql sequelize
      - (searchkey) ==> Get all users that their fistName or lastName contain the search key.
      - otherwise, get all users with their posts (using include).
 
-##### for any comment , feedback or question you can contact with me at  ma5027300@gmail.com
+##### for any comment , feedback or question you can *contact with me at* __ma5027300@gmail.com__
